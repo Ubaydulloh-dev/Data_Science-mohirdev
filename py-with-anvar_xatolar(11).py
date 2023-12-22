@@ -2,7 +2,7 @@
 """
 Created on Fri Dec 22 15:02:12 2023
 
-@author: user
+@author: Ubaydulloh
 """
 
 # print("O'ngacha sanaymiz.")
